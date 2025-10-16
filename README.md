@@ -43,8 +43,7 @@ Out[69]= {2,219809,2}<br>
 In[70]:= ListPlot[{g[[1]],g[[2]]},Joined->True,PlotRange->{30,-30},Axes->False,Frame->True,PlotLegends->{"Freezer","Core"},FrameLabel->{"time","temp"}]<br>
 Out[70]= 	Freezer<br>
 <br>
-	
-	Core<br>
+Core<br>
 </ul>
 
 <img width="725" height="298" alt="image" src="https://github.com/user-attachments/assets/b8c8dd94-fbf2-4195-ae94-56ee2f75554b" />
